@@ -46,5 +46,5 @@ The bot uses the following algorithm:
   ```
 
 ## Зависимости / Dependencies
-    - C++17 или новее / C++17 or newer.
-    - Заголовочные файлы из проекта / Header files from the project.
+    C++17 или новее / C++17 or newer.
+    Заголовочные файлы из проекта / Header files from the project.
