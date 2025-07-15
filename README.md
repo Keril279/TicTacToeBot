@@ -20,9 +20,9 @@
    KirPlayer bot("PlayerName");
    ```
 2. **Получение хода** / **Get a move**:
-  ```cpp
-  Point move = bot.play(gameView);
-  ```
+     ```cpp
+     Point move = bot.play(gameView);
+     ```
 3. **Обработка событий** / **Handle events**:
    ```cpp
    bot.notify(gameView, event);
@@ -46,5 +46,5 @@ The bot uses the following algorithm:
   ```
 
 ## Зависимости / Dependencies
-    C++17 или новее / C++17 or newer.
-    Заголовочные файлы из проекта / Header files from the project.
+ - C++17 или новее / C++17 or newer.
+ - Заголовочные файлы из проекта / Header files from the project.
